@@ -1,1 +1,3 @@
-# sample_android_app
+# Training Course
+## Android Development for Beginners
+### Sample Android App
