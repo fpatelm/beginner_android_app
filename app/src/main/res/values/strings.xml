@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reading</string>
+    <string name="title_home">Home</string>
+    <string name="saved_stories">Saved stories</string>
+    <string name="search">Search</string>
+    <string name="lib">My library</string>
+</resources>
